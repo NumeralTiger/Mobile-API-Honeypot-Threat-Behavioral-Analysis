@@ -2,9 +2,8 @@
 
 ## Behavioral Analysis of Unauthorized Location Service Exploitation
 
----
 
-## Abstract
+### Abstract
 This project investigates the threat landscape of mobile location privacy by deploying a high-interaction honeypot simulating smartphone API endpoints. The goal was to analyze attacker behavior when encountering "Privacy-First" error responses (the privacy paradox in action).
 
 ---
